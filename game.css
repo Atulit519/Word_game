@@ -1,0 +1,48 @@
+body
+{
+	background: lightblue;
+}
+
+	.login_division
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word_input
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output_division
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+#player_1_name, #player_2_name, #score_1, #score_2{
+	margin: 10px;
+	font-weight: bold;
+	font-size: medium;
+	color: darkblue;
+}
+
+#next_button{
+	margin-left: 220px;
+	width: 100px;
+}
